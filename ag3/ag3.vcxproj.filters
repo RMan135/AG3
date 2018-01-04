@@ -31,9 +31,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt" />
     <Text Include="data\TEST\000_Evolution.log" />
     <Text Include="data\TEST\000_Fitness.log" />
     <Text Include="data\TEST\000_Log.log" />
+    <Text Include="input.txt" />
   </ItemGroup>
 </Project>
