@@ -34,6 +34,8 @@
     <Text Include="data\TEST\000_Evolution.log" />
     <Text Include="data\TEST\000_Fitness.log" />
     <Text Include="data\TEST\000_Log.log" />
+    <Text Include="input_n15.txt" />
+    <Text Include="input_n10.txt" />
     <Text Include="input.txt" />
   </ItemGroup>
 </Project>
